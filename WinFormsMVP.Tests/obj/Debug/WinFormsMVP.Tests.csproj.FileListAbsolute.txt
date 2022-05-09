@@ -1,0 +1,14 @@
+D:\self Study-JSV-2022\winforms-mvp\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\WinFormsMVP.Tests.dll
+D:\self Study-JSV-2022\winforms-mvp\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\WinFormsMVP.Tests.pdb
+D:\self Study-JSV-2022\winforms-mvp\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\Moq.dll
+D:\self Study-JSV-2022\winforms-mvp\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\WinFormsMVP.exe
+D:\self Study-JSV-2022\winforms-mvp\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\xunit.dll
+D:\self Study-JSV-2022\winforms-mvp\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\WinFormsMVP.pdb
+D:\self Study-JSV-2022\winforms-mvp\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\Moq.pdb
+D:\self Study-JSV-2022\winforms-mvp\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\Moq.xml
+D:\self Study-JSV-2022\winforms-mvp\WinFormsMVP\WinFormsMVP.Tests\bin\Debug\xunit.xml
+D:\self Study-JSV-2022\winforms-mvp\WinFormsMVP\WinFormsMVP.Tests\obj\Debug\WinFormsMVP.Tests.csproj.AssemblyReference.cache
+D:\self Study-JSV-2022\winforms-mvp\WinFormsMVP\WinFormsMVP.Tests\obj\Debug\WinFormsMVP.Tests.csproj.CoreCompileInputs.cache
+D:\self Study-JSV-2022\winforms-mvp\WinFormsMVP\WinFormsMVP.Tests\obj\Debug\WinFormsMVP.Tests.csproj.CopyComplete
+D:\self Study-JSV-2022\winforms-mvp\WinFormsMVP\WinFormsMVP.Tests\obj\Debug\WinFormsMVP.Tests.dll
+D:\self Study-JSV-2022\winforms-mvp\WinFormsMVP\WinFormsMVP.Tests\obj\Debug\WinFormsMVP.Tests.pdb
